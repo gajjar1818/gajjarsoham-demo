@@ -1,4 +1,4 @@
 # gajjarsoham-demo
 this is my Git Repository.
 <br>
-Author - Gajjar Soham
+Author - Soham (Gajjar Soham)
